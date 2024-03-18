@@ -100,6 +100,103 @@ width:200% ;
     margin-left: 25%;
     margin-top: 5%;
 }
+.imagesonly{
+    display: flex;
+    flex-wrap: nowrap;
+    gap:5%;
+    margin-left: 5%;
+    margin-top: 5%;
+}
+.single{
+    display: flex;
+    gap:40%;
+    margin-left: 20%;
+    margin-top: 5%;
+}
+.singleword{
+    margin-left: 40%;
+    margin-top: 5%;
+}
+.body5{
+    display:flex;
+    gap:10%;
+    margin-left: 20%;
+    margin-top: 5%;
+}
+.beforeimages{
+    margin-left: 40%;
+    margin-top: 5%;
+}
+.footer{
+    display:flex;
+    gap:10%;
+    margin-top: 5%;
+}
+.footer2{
+    margin-left: 10%;
+}
+.list3{
+    list-style: none;
+}
+.lasth{
+    margin-left: 23%;
+}
+.last{
+    display:flex;
+    justify-content: space-between;
+    margin-top: 5%;
+    margin-left:10%;
+    gap:10%;
+}
+.one{
+    margin-top: 5%;
+}
+.icons{
+    display:flex;
+    gap:5%;
+    margin-top:5%;
+}
+.im4{
+    width:10%
+ }
+.im5{
+    width:20%;
+    margin-top:20%;
+}
+.im6{
+    width:10%;
+}
+.im7{
+    width:50%;
+}
+.im8{
+ width:10%;
+ height: 10%;
+ margin-top: 1%;
+}
+.im9{
+    width:10%;
+    height:20%;
+}
+.im10{
+    width:10%;
+    height:20%;
+}
+.im11{
+    width:10%;
+    height:20%;
+}
+.im12{
+    width:10%;
+    height:20%;
+}
+.im13{
+    width:10%;
+    height:20%;
+}
+.icons2{
+
+}
 @media screen and (max-width:412px){
     body{
        width:100%;
